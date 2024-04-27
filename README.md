@@ -39,5 +39,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 - **Built with React.js and Tailwind CSS**.
 
 ## Images  📸
-![Screenshot_27-4-2024_231624_localhost](https://github.com/Ro706/brainwave/assets/60247178/1a88d412-8f44-4109-aa46-f2a72895f2e1)
+![Screenshot_27-4-2024_231624_localhost](https://github.com/Ro706/brainwave/assets/60247178/1324bae0-0c6c-439e-b7ff-5913c31c9cb8)
+
 
